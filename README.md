@@ -1,0 +1,2 @@
+# myVueTemplate
+template
